@@ -1,4 +1,4 @@
-Netflix-Inspired Landing Page
+#Netflix-Inspired Landing Page
 
 This repository contains a basic landing page inspired by Netflix. It’s a simple HTML, CSS, and JavaScript project that you can use as a starting point for your own web development endeavors.
 
